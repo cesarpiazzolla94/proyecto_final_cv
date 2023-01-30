@@ -56,6 +56,7 @@ background: linear-gradient(to right, #3a3a3a, #111111);
 .my-img {                        /*IMG configuraciones */
     width: 150px;
     height: 150px;
+    cursor: pointer;
 }
 img {                                /*sombra */
   box-shadow: 0px 0px 10px #333;
